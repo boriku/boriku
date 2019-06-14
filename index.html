@@ -8,6 +8,9 @@ layout: default
 
 	  <li class="post">
 			{% if post.image.feature %}
+  <a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/img/{{ post.image.feature }}"></a>
+{% endif %}
+			{% if post.image.feature %}
 			  <a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/img/{{ post.image.feature }}"></a>
 			{% endif %}
 

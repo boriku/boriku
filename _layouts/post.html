@@ -5,6 +5,10 @@ comments: true
 ---
 <article id="post-page">
 	{% if page.image.feature %}
+  <img src="{{ site.github.url }}/img/{{ page.image.feature }}">
+{% endif %}
+
+	{% if page.image.feature %}
       <img src="{{ site.url }}/img/{{ page.image.feature }}">
     {% endif %}
 
