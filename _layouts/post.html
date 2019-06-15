@@ -4,13 +4,10 @@ layout: default
 comments: true
 ---
 <article id="post-page">
-	{% if page.image.feature %}
-  <img src="{{ site.github.url }}/img/{{ page.image.feature }}">
-{% endif %}
 
 	{% if page.image.feature %}
-      <img src="{{ site.url }}/img/{{ page.image.feature }}">
-    {% endif %}
+	<img src="{{ site.github.url }}/img/{{ page.image.feature }}">
+{% endif %}
 
 	<h2>{{ page.title }}</h2>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
