@@ -5,7 +5,7 @@ description: "스타트업 마케터의 디지털마케팅 블로그입니다."
 url: "http://boriku.com"
 author:
   name: "Bori Ku"
-  email: "likebori@gmail.com"
+  email: "iam@boriku.com"
   url: "http://boriku.com"
 
 # Build settings
@@ -16,7 +16,7 @@ paginate: 8
 # Default values
 defaults:
   -
-    scope:
+    scope: 
       path: ""
       type: "posts"
     values:

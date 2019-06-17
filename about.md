@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About Boriku
+title: About boriku
 ---
-## Boriku
-안녕하세요. 스타트업 마케터의 블로그입니다.
 
+**처음 뵙겠습니다.**
+스타트업 마케터의 디지털마케팅에 관한 블로그입니다.
 
-![Emerald](img/firstlog-1.png)
-
-### Hi
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+![](https://cdn.pixabay.com/photo/2015/06/01/09/04/blog-793047__340.jpg)
