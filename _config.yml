@@ -16,7 +16,7 @@ paginate: 8
 # Default values
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
