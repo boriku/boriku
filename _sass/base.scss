@@ -26,9 +26,9 @@ $text-color: #222222;
 
 html {
 	background-color: $background-color;
-	font-size: 14px;
+	font-size: 16px;
 	@media (min-width: 940px) {
-		font-size: 12px;
+		font-size: 16px;
 	}
 	line-height: 1.5;
 	color: $text-color;
