@@ -66,5 +66,5 @@ description: 1년 동안의 뉴스레터 콘텐츠 마케팅을 진행하며 느
 
 제가 준비한 오늘 콘텐츠는 여기까지입니다. 연달아 3번을 뉴스레터, 이메일 마케팅에 대해 다뤘는데요, 다음엔 다른 주제로 찾아 뵙겠습니다.
 
-▶[스티비](https://stibee.com/)<br>
-▶[스티비 블로그](https://blog.stibee.com/)
+▶[스티비 보러가기](https://stibee.com/)<br>
+▶[스티비 블로그 보러가기](https://blog.stibee.com/)
