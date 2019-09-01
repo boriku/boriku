@@ -3,7 +3,7 @@ layout: post
 title: 스티비와 함께 한 1년간의 뉴스레터 기록
 date: 2019-08-07 01:00:00 +09:00
 author: "boriku"
-permalink: /marketing-newsletter-3/
+permalink: /marketing-newsletter-with-stibee/
 image:
   feature: NEWSLETTER3-00.jpg
 categories:

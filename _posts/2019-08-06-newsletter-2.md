@@ -3,7 +3,7 @@ layout: post
 title: 마케터가 구독하면 좋을 뉴스레터(2)
 date: 2019-08-06 01:00:00 +09:00
 author: "boriku"
-permalink: /marketing-newsletter-2/
+permalink: /marketing-newsletter-for-marketers-1/
 image:
   feature: NEWSLETTER2-0.jpg
 categories:
