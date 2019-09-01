@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about-marketer-boriku/
 ---
 
 **안녕하세요. 마케터 구보리입니다.** <br>
