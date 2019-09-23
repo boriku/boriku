@@ -24,3 +24,12 @@ amplitude.getInstance().logEvent('view content',{
 	title: '{{ page.title }}',
 });
 </script>
+
+
+<script>
+  dataLayer.push({
+		'event' : 'viewContent'
+		'content_id' : '{{ page.content_id }}',
+		'title' : '{{ page.title }}'
+  })
+</script>
