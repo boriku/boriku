@@ -17,3 +17,15 @@ comments: true
 {% include disqus.html %}
 	</div>
 </article>
+
+<script>
+ fbq('track','ViewContent',{
+		 content_title:'{{ page.title }}'
+ });
+</script>
+
+<script>
+amplitude.getInstance().logEvent('view content',{
+	title: '{{ page.title }}',
+});
+</script>
