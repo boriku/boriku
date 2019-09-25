@@ -1,4 +1,5 @@
 ---
+content_id : contents5
 layout: post
 title: 마케터가 구독하면 좋을 뉴스레터(2)
 date: 2019-08-06 01:00:00 +09:00
