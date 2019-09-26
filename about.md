@@ -1,5 +1,5 @@
 ---
-content_id : contents0
+content_id: 0
 layout: page
 title: About-boriku
 permalink: /about-marketer-boriku/
